@@ -89,7 +89,3 @@ setTimeout(async () => {
 
 将`traceJson`数据放入此项目中，即可实现基本的数据分析
 
-# 如果出现分析错误或存疑
-
-联系 Email：`2369558390@qq.com`
-
